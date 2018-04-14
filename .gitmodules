@@ -1,3 +1,0 @@
-[submodule "apps/hive_node"]
-	path = apps/hive_node
-	url = git@github.com:taran96/hive_node
